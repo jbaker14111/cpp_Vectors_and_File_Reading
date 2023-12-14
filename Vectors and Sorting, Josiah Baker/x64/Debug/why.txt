@@ -1,1 +1,0 @@
-This is an example showing I know how to read data from a file and use the information contained in it
