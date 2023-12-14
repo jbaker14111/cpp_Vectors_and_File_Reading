@@ -5,3 +5,7 @@ This is a project I completed while attending Liberty University Online. It uses
 &nbsp; 1. reads file input <br>
 &nbsp; 2. uses vectors to grow information that may expand over time <br>
 &nbsp; 3. does NOT check for error in file input. Implementing this did not fall within the scope of the project <br>
+
+<h1>Images </h1>
+<img src="./Images/Facts.png" width="400">
+<img src="./Images/Code.png" width="400">
